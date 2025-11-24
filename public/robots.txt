@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://zakariabouchelaghm.github.io/centre-medical-chiad/sitemap.xml
+Sitemap: https://centre-medical-chiad.onrender.com/sitemap.xml
