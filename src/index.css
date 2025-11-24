@@ -48,6 +48,8 @@
 /* ===== GLOBAL STYLES ===== */
 html {
   scrollbar-gutter: stable;
+  overflow-x: hidden;
+  scroll-behavior: smooth;
 }
 
 body {
@@ -59,6 +61,8 @@ body {
   -moz-osx-font-smoothing: grayscale;
   color: var(--text-dark);
   background: var(--background);
+  overflow-x: hidden;
+  width: 100%;
 }
 
 /* Arabic text support */
