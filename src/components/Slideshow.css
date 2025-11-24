@@ -82,6 +82,17 @@
     right: var(--spacing-md);
 }
 
+/* RTL support - flip arrows in Arabic mode */
+[dir="rtl"] .slide-btn.prev,
+[dir="rtl"] .slide-btn.next {
+    transform: translateY(-50%) scaleX(-1);
+}
+
+[dir="rtl"] .slide-btn.prev:hover,
+[dir="rtl"] .slide-btn.next:hover {
+    transform: translateY(-50%) scaleX(-1) scale(1.1);
+}
+
 .slide-dots {
     display: flex;
     justify-content: center;
