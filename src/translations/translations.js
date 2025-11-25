@@ -78,7 +78,7 @@ export const translations = {
 
         // Map Section
         locationTitle: 'موقعنا',
-        locationSubtitle: 'قم بزيارتنا في مركزنا في سطيف',
+        locationSubtitle: 'قم بزيارتنا في مركزنا في عين ولمان',
         mapTitle: 'خريطة موقع مركز شياد الطبي',
     },
 
@@ -161,7 +161,7 @@ export const translations = {
 
         // Map Section
         locationTitle: 'Notre Emplacement',
-        locationSubtitle: 'Visitez-nous à notre centre à Sétif',
+        locationSubtitle: 'Visitez-nous à notre centre à  Aïn Oulmene',
         mapTitle: 'Carte de localisation du Centre Médical Chiad',
     }
 };
