@@ -75,6 +75,11 @@ export const translations = {
         menDays: 'الرجال: السبت، الاثنين، الأربعاء',
         womenDays: 'النساء: الأحد، الثلاثاء، الخميس',
         allRightsReserved: 'جميع الحقوق محفوظة',
+
+        // Map Section
+        locationTitle: 'موقعنا',
+        locationSubtitle: 'قم بزيارتنا في مركزنا في سطيف',
+        mapTitle: 'خريطة موقع مركز شياد الطبي',
     },
 
     fr: {
@@ -153,6 +158,11 @@ export const translations = {
         menDays: 'Hommes: Samedi, Lundi, Mercredi',
         womenDays: 'Femmes: Dimanche, Mardi, Jeudi',
         allRightsReserved: 'Tous droits réservés',
+
+        // Map Section
+        locationTitle: 'Notre Emplacement',
+        locationSubtitle: 'Visitez-nous à notre centre à Sétif',
+        mapTitle: 'Carte de localisation du Centre Médical Chiad',
     }
 };
 

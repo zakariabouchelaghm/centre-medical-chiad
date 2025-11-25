@@ -1,5 +1,6 @@
 import Slideshow from '../components/Slideshow';
 import ServiceCard from '../components/ServiceCard';
+import Map from '../components/Map';
 import { Link } from 'react-router-dom';
 import { useLanguage } from '../context/LanguageContext';
 import { t } from '../translations/translations';
@@ -82,6 +83,8 @@ function Home() {
                     </div>
                 </div>
             </section>
+
+            <Map />
 
             <section className="section services-preview">
                 <div className="container">
