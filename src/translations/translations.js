@@ -62,6 +62,11 @@ export const translations = {
         slide4Title: 'رعاية شخصية',
         slide4Desc: 'خطط علاج مصممة خصيصاً لكل مريض',
 
+        // Map Section
+        locationTitle: 'موقعنا',
+        locationSubtitle: 'قم بزيارتنا في مركزنا في عين ولمان',
+        mapTitle: 'خريطة موقع مركز شياد الطبي',
+
         // Footer
         professionalCenter: 'مركز متخصص في إعادة التأهيل الوظيفي والحركي',
         contactUsTitle: 'اتصل بنا',
@@ -75,11 +80,6 @@ export const translations = {
         menDays: 'الرجال: السبت، الاثنين، الأربعاء',
         womenDays: 'النساء: الأحد، الثلاثاء، الخميس',
         allRightsReserved: 'جميع الحقوق محفوظة',
-
-        // Map Section
-        locationTitle: 'موقعنا',
-        locationSubtitle: 'قم بزيارتنا في مركزنا في عين ولمان',
-        mapTitle: 'خريطة موقع مركز شياد الطبي',
     },
 
     fr: {
@@ -145,6 +145,11 @@ export const translations = {
         slide4Title: 'Soins Personnalisés',
         slide4Desc: 'Plans de traitement adaptés à chaque patient',
 
+        // Map Section
+        locationTitle: 'Notre Emplacement',
+        locationSubtitle: 'Visitez-nous à notre centre à Aïn Oulmene',
+        mapTitle: 'Carte de localisation du Centre Médical Chiad',
+
         // Footer
         professionalCenter: 'Centre Professionnel de Rééducation Fonctionnelle et Motrice',
         contactUsTitle: 'Contactez-nous',
@@ -158,11 +163,6 @@ export const translations = {
         menDays: 'Hommes: Samedi, Lundi, Mercredi',
         womenDays: 'Femmes: Dimanche, Mardi, Jeudi',
         allRightsReserved: 'Tous droits réservés',
-
-        // Map Section
-        locationTitle: 'Notre Emplacement',
-        locationSubtitle: 'Visitez-nous à notre centre à  Aïn Oulmene',
-        mapTitle: 'Carte de localisation du Centre Médical Chiad',
     }
 };
 
