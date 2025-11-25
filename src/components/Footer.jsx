@@ -18,7 +18,6 @@ function Footer() {
                         <h4>{t('contactUsTitle', language)}</h4>
                         <div className="contact-info">
                             <p>📞 {t('phone', language)}: <span dir="ltr">06 61 22 42 91</span></p>
-                            <p>📧 {t('email', language)}: contact@chiadclinic.com</p>
                             <p>📍 {t('address', language)}: {t('addressValue', language)}</p>
                         </div>
                     </div>
@@ -28,6 +27,8 @@ function Footer() {
                         <div className="hours">
                             <p>{t('satToThu', language)}</p>
                             <p>{t('friday', language)}</p>
+                            <p style={{ marginTop: '10px', fontWeight: '500' }}>{t('menDays', language)}</p>
+                            <p style={{ fontWeight: '500' }}>{t('womenDays', language)}</p>
                         </div>
                     </div>
                 </div>

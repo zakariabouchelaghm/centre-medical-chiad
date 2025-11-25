@@ -70,8 +70,10 @@ export const translations = {
         address: 'العنوان',
         addressValue: 'سطيف, عين ولمان',
         openingHours: 'ساعات العمل',
-        satToThu: 'السبت - الخميس: 9:00 صباحاً - 6:00 مساءً',
+        satToThu: 'الأحد - الأربعاء: 8:00 صباحاً - 4:00 مساءً | الخميس: صباحاً فقط',
         friday: 'الجمعة: مغلق',
+        menDays: 'الرجال: السبت، الاثنين، الأربعاء',
+        womenDays: 'النساء: الأحد، الثلاثاء، الخميس',
         allRightsReserved: 'جميع الحقوق محفوظة',
     },
 
@@ -146,8 +148,10 @@ export const translations = {
         address: 'Adresse',
         addressValue: 'Sétif, Aïn Oulmene',
         openingHours: 'Heures d\'Ouverture',
-        satToThu: 'Samedi - Jeudi: 9h00 - 18h00',
+        satToThu: 'Dimanche - Mercredi: 08h00 - 16h00 | Jeudi: Matin uniquement',
         friday: 'Vendredi: Fermé',
+        menDays: 'Hommes: Samedi, Lundi, Mercredi',
+        womenDays: 'Femmes: Dimanche, Mardi, Jeudi',
         allRightsReserved: 'Tous droits réservés',
     }
 };
