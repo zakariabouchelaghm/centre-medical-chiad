@@ -102,7 +102,11 @@
     cursor: pointer;
     transition: all var(--transition-fast);
     font-size: 0.9rem;
-    line-height: 1;
+    line-height: 1.5;
+    height: 32px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 
 .lang-btn:hover {
@@ -117,7 +121,8 @@
 
     .nav {
         padding: 0 var(--spacing-xs);
-        min-height: 50px;
+        height: 60px;
+        min-height: 60px;
     }
 
     .nav-left {

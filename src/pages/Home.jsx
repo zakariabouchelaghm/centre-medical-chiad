@@ -16,7 +16,7 @@ function Home() {
             description: t('slide1Desc', language)
         },
         {
-            url: 'https://images.unsplash.com/photo-1576091160550-2173dba999ef?w=1200',
+            url: 'https://images.unsplash.com/photo-1638636246913-8b3e8d282269?q=80&w=870&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
             title: t('slide2Title', language),
             description: t('slide2Desc', language)
         },
@@ -26,7 +26,7 @@ function Home() {
             description: t('slide3Desc', language)
         },
         {
-            url: 'https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=1200',
+            url: 'https://images.unsplash.com/photo-1699523229212-c25a2fadeb12?q=80&w=869&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
             title: t('slide4Title', language),
             description: t('slide4Desc', language)
         }

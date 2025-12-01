@@ -21,6 +21,12 @@
     background-clip: text;
 }
 
+/* Fix for Arabic text cutoff with background-clip */
+[dir="rtl"] .hero-title {
+    padding-bottom: 15px;
+    line-height: 1.5;
+}
+
 .hero-subtitle {
     font-size: 1.3rem;
     color: var(--text-medium);
