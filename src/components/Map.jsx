@@ -33,7 +33,8 @@ function Map() {
                     <div className="location-card">
                         <div className="location-icon">📞</div>
                         <h3>{t('phone', language)}</h3>
-                        <p dir="ltr">06 61 22 42 91</p>
+                        <p dir="ltr">0661224291</p>
+                        <p dir="ltr">0772668228</p>
                     </div>
                     <div className="location-card">
                         <div className="location-icon">🕒</div>

@@ -17,7 +17,9 @@ function Footer() {
                     <div className="footer-section">
                         <h4>{t('contactUsTitle', language)}</h4>
                         <div className="contact-info">
-                            <p>📞 {t('phone', language)}: <span dir="ltr">06 61 22 42 91</span></p>
+                            <p>📞 {t('phone', language)}:</p>
+                            <p><span dir="ltr">0661224291</span></p>
+                            <p><span dir="ltr">0772668228</span></p>
                             <p>📍 {t('address', language)}: {t('addressValue', language)}</p>
                         </div>
                     </div>
