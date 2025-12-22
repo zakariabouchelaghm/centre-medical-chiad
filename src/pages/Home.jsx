@@ -5,28 +5,32 @@ import { Link } from 'react-router-dom';
 import { useLanguage } from '../context/LanguageContext';
 import { t } from '../translations/translations';
 import './Home.css';
+import slide1 from '../assets/1.jpg';
+import slide2 from '../assets/2.jpg';
+import slide3 from '../assets/3.jpg';
+import slide4 from '../assets/4.jpg';
 
 function Home() {
     const { language } = useLanguage();
 
     const slides = [
         {
-            url: 'https://images.unsplash.com/photo-1576091160399-112ba8d25d1d?w=1200',
+            url: slide1,
             title: t('slide1Title', language),
             description: t('slide1Desc', language)
         },
         {
-            url: 'https://images.unsplash.com/photo-1638636246913-8b3e8d282269?q=80&w=870&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
+            url: slide2,
             title: t('slide2Title', language),
             description: t('slide2Desc', language)
         },
         {
-            url: 'https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=1200',
+            url: slide3,
             title: t('slide3Title', language),
             description: t('slide3Desc', language)
         },
         {
-            url: 'https://images.unsplash.com/photo-1699523229212-c25a2fadeb12?q=80&w=869&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
+            url: slide4,
             title: t('slide4Title', language),
             description: t('slide4Desc', language)
         }
