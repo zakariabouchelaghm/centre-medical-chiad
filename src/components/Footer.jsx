@@ -36,7 +36,7 @@ function Footer() {
                 </div>
 
                 <div className="footer-bottom">
-                    <p>&copy; 2025 {t('clinicName', language)}. {t('allRightsReserved', language)}.</p>
+                    <p>&copy; 2026 {t('clinicName', language)}. {t('allRightsReserved', language)}.</p>
                 </div>
             </div>
         </footer>
